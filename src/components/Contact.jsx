@@ -19,10 +19,14 @@ export const Contact = () => {
           transition={{ duration: 0.5 }}
           className="my-4"
         >
-          <span className="text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
+          <span className="text-base sm:text-lg lg:text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
             E-mail:
           </span>
-          <a target="_blank" href="mailto:guilherme3fs@gmail.com">
+          <a
+            target="_blank"
+            href="mailto:guilherme3fs@gmail.com"
+            className="text-sm sm:text-base"
+          >
             {" "}
             guilherme3fs@gmail.com
           </a>
@@ -33,16 +37,16 @@ export const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          <span className="text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
+          <span className="text-base sm:text-lg lg:text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
             Linkedin:
           </span>
           <a
             target="_blank"
             href="https://www.linkedin.com/in/guilherme-greca-155027263/"
-            className="border-b"
+            className="border-b text-sm sm:text-base"
           >
             {" "}
-            https://www.linkedin.com/in/guilherme-greca-155027263/
+            linkedin.com/guilherme-greca
           </a>
         </motion.p>
         <motion.p
@@ -51,16 +55,16 @@ export const Contact = () => {
           transition={{ duration: 0.5 }}
           className="my-4"
         >
-          <span className="text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
+          <span className="text-base sm:text-lg lg:text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
             Github:
           </span>
           <a
             target="_blank"
             href="https://github.com/GuilhermeNGreca"
-            className="border-b"
+            className="border-b text-sm sm:text-base"
           >
             {" "}
-            https://github.com/GuilhermeNGreca
+            github.com/GuilhermeNGreca
           </a>
         </motion.p>
         <motion.p
@@ -69,10 +73,14 @@ export const Contact = () => {
           transition={{ duration: 1 }}
           className="my-4"
         >
-          <span className="text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
+          <span className="text-base sm:text-lg lg:text-2xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
             Phone:
           </span>
-          <a target="_blank" href="https://wa.me/5535999613983">
+          <a
+            target="_blank"
+            href="https://wa.me/5535999613983"
+            className="text-sm sm:text-base"
+          >
             {" "}
             +55 (35) 99961-3983
           </a>

@@ -48,7 +48,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <BiLogoTypescript className="text-7xl text-blue-600" />
+          <a href="https://www.typescriptlang.org/docs/" target="_blank">
+            <BiLogoTypescript className="text-7xl text-blue-600" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -57,7 +59,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <RiReactjsLine className="text-7xl text-cyan-500" />
+          <a href="https://react.dev/" target="_blank">
+            <RiReactjsLine className="text-7xl text-cyan-500" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -66,7 +70,12 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <DiJavascript1 className="text-7xl text-yellow-300" />
+          <a
+            href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+            target="_blank"
+          >
+            <DiJavascript1 className="text-7xl text-yellow-300" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -75,7 +84,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <IoLogoPython className="text-7xl text-cyan-800" />
+          <a href="https://www.python.org/doc/" target="_blank">
+            <IoLogoPython className="text-7xl text-cyan-800" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -84,7 +95,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiStyledcomponents className="text-7xl text-pink-500" />
+          <a href="https://styled-components.com/docs" target="_blank">
+            <SiStyledcomponents className="text-7xl text-pink-500" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -93,7 +106,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <BiLogoTailwindCss className="text-7xl text-cyan-500" />
+          <a href="https://v2.tailwindcss.com/docs" target="_blank">
+            <BiLogoTailwindCss className="text-7xl text-cyan-500" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -102,7 +117,12 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <FaFigma className="text-7xl text-gray-500" />
+          <a
+            href="https://help.figma.com/hc/en-us/categories/360002051613"
+            target="_blank"
+          >
+            <FaFigma className="text-7xl text-gray-500" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -111,7 +131,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <BiLogoPostgresql className="text-7xl text-sky-700" />
+          <a href="https://www.postgresql.org/docs/" target="_blank">
+            <BiLogoPostgresql className="text-7xl text-sky-700" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -120,7 +142,12 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiPostman className="text-7xl text-orange-500" />
+          <a
+            href="https://learning.postman.com/docs/introduction/overview/"
+            target="_blank"
+          >
+            <SiPostman className="text-7xl text-orange-500" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -129,7 +156,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <SiSqlalchemy className="text-7xl text-red-600" />
+          <a href="https://docs.sqlalchemy.org/en/20/" target="_blank">
+            <SiSqlalchemy className="text-7xl text-red-600" />
+          </a>
         </motion.div>
 
         <motion.div
@@ -138,7 +167,9 @@ export const Technologies = () => {
           animate="animate"
           className="rounded-2xl border-4 border-neutral-800 p-4"
         >
-          <DiNodejsSmall className="text-7xl text-green-600" />
+          <a href="https://nodejs.org/docs/latest/api/" target="_blank">
+            <DiNodejsSmall className="text-7xl text-green-600" />
+          </a>
         </motion.div>
       </motion.div>
     </div>

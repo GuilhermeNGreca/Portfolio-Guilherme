@@ -50,6 +50,15 @@ export const About = () => {
               databases for the Back-end. I am committed to combining my passion
               for technology with a creative and collaborative approach, always
               striving to learn and grow.
+              <br />
+              * Languages, Libraries, Frameworks, and Project Organization
+              Platforms:
+              <br />
+              React, TypeScript, Javascript, HTML, CSS, Styled Components,
+              Tailwind, Redux, Guards (Routs), Firebase Auth, FirebaseDB, Design
+              Patterns, useContext (React), Python, SQLAlchemy, PostgreSQL,
+              Flask, Marshmallow, Postman, Node.js, Figma, Pipefy, Gather,
+              Github
             </p>
           </div>
         </motion.div>
