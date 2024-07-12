@@ -39,15 +39,15 @@ export const About = () => {
           <div className="flex justify-center lg:justify-start">
             <p className="my-2 maxw-xl py-6">
               I am a passionate software developer who transforms ideas into
-              impactful digital experiences. With strong skills in both
-              Front-end and Back-end technologies, I am currently expanding my
+              impactful digital experiences. With strong skills in both Front
+              End and Back End technologies, I am currently expanding my
               theoretical knowledge by pursuing a degree in Systems Analysis and
               Development. I actively participate in projects through a remote
               Academy based in the United States, where I am building a diverse
               and meaningful portfolio. My most rewarding work so far has been
               collaborating on the development of a web system for an NGO, using
-              React.js and TypeScript for the Front-end, Python and relational
-              databases for the Back-end. I am committed to combining my passion
+              React.js and TypeScript for the Front End, Python and relational
+              databases for the Back End. I am committed to combining my passion
               for technology with a creative and collaborative approach, always
               striving to learn and grow.
               <br />
