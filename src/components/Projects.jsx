@@ -47,7 +47,7 @@ export const Projects = () => {
             <h6 className="mb-2 font-semibold">Rick and Morty</h6>
             <p className="mb-4 text-neutral-400">
               Project carried out with mentoring from the academy where I am
-              part. Fullstack project with front End made in React, API made in
+              part. Fullstack project with Front End made in React, API made in
               Python, and database in PostgreSQL.
               <br />
               <a
