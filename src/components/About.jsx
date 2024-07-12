@@ -55,10 +55,10 @@ export const About = () => {
               Platforms:
               <br />
               React, TypeScript, Javascript, HTML, CSS, Styled Components,
-              Tailwind, Redux, Guards (Routs), Firebase Auth, FirebaseDB, Design
-              Patterns, useContext (React), Python, SQLAlchemy, PostgreSQL,
-              Flask, Marshmallow, Postman, Node.js, Figma, Pipefy, Gather,
-              Github
+              Design Patterns, TailwindCSS, Redux, Guards (Routs), Firebase
+              Auth, FirebaseDB, useContext (React), Python, SQLAlchemy,
+              PostgreSQL, Flask, Marshmallow, Postman, Node.js, Figma, Pipefy,
+              Gather, Github
             </p>
           </div>
         </motion.div>

@@ -32,10 +32,11 @@ export const Experience = () => {
               Apprentice Full Stack Developer - <span>Eitree</span>
             </h6>
             <p className="mb-4 text-neutral-400">
-              Engaged in the development of a web system for a Brazilian
-              nongovernmental organization focused on animal adoption. In this
-              project, involved in back-end development using Python and
-              relational databases, as well as front-end creation with React.js.
+              Engaged in the development of a web system for a nongovernmental
+              organization focused on animal adoption. In this project, I am
+              involved in Back End development using Python and relational
+              databases, as well as Front End creation with React.js and
+              Typescript.
             </p>
             <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
               React.js
@@ -72,9 +73,9 @@ export const Experience = () => {
               Intern in Electronics Technician - <span>InfoP4</span>
             </h6>
             <p className="mb-4 text-neutral-400">
-              I worked in network cable installation, computer and electronics
-              maintenance, and the commercialization and use of electronic
-              equipment and systems.
+              Network cable installation, computer and electronics maintenance,
+              and the commercialization and use of electronic equipment and
+              systems.
             </p>
             <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
               Cabling

@@ -38,14 +38,15 @@ export const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-              I am a Front-end developer with experience in React, TypeScript,
-              JavaScript, Python, HTML, CSS, and more. Currently studying
-              Systems Analysis and Development to strengthen my theoretical
-              knowledge. I am actively participating in challenging projects to
-              continuously build a diversified portfolio.
+              I am a Front End Developer with experience in React, TypeScript,
+              JavaScript, Python, TailwindCSS, Design Patterns, Styled
+              Components and more. Currently studying Systems Analysis and
+              Development to strengthen my theoretical knowledge. I am actively
+              participating in challenging projects to continuously build a
+              diversified portfolio.
             </motion.p>
             <a
-              href="/resume%20FRONTEND.pdf"
+              href="/currículo%20FRONTEND.pdf"
               download="Guilherme_Greca_CV.pdf"
               className="mb-10 px-4 py-2 text-white rounded transition-all duration-300 ease-in-out bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 hover:animate-gradient hover:scale-105 active:scale-90"
             >
