@@ -176,9 +176,9 @@ export const Technologies = () => {
         whileInView={{ opacity: 1, x: 0 }}
         initial={{ opacity: 0, x: 100 }}
         transition={{ duration: 1 }}
-        className="py-20"
+        className="py-20 text-center"
       >
-        <p className="text-center my-6 maxw-xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
+        <p className="my-6 maxw-xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
           Languages, Libraries, Frameworks, and Project Organization Platforms:
         </p>
         <p>- React, TypeScript, Javascript, HTML, CSS</p>
