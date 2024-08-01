@@ -43,7 +43,7 @@ export const Contact = () => {
           <a
             target="_blank"
             href="https://www.linkedin.com/in/guilherme-greca-155027263/"
-            className="border-b text-sm sm:text-base"
+            className="text-sm sm:text-base"
           >
             {" "}
             linkedin.com/guilherme-greca
@@ -61,7 +61,7 @@ export const Contact = () => {
           <a
             target="_blank"
             href="https://github.com/GuilhermeNGreca"
-            className="border-b text-sm sm:text-base"
+            className="text-sm sm:text-base"
           >
             {" "}
             github.com/GuilhermeNGreca

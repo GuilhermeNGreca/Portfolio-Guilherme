@@ -26,7 +26,7 @@ const iconVariants = (duration) => ({
 
 export const Technologies = () => {
   return (
-    <div className="border-b border-neutral-800 pb-24">
+    <div className="border-b border-neutral-800">
       <motion.h2
         whileInView={{ opacity: 1, y: 0 }}
         initial={{ opacity: 0, y: 100 }}
@@ -171,6 +171,26 @@ export const Technologies = () => {
             <DiNodejsSmall className="text-7xl text-green-600" />
           </a>
         </motion.div>
+      </motion.div>
+      <motion.div
+        whileInView={{ opacity: 1, x: 0 }}
+        initial={{ opacity: 0, x: 100 }}
+        transition={{ duration: 1 }}
+        className="py-20"
+      >
+        <p className="text-center my-6 maxw-xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
+          Languages, Libraries, Frameworks, and Project Organization Platforms:
+        </p>
+        <p>- React, TypeScript, Javascript, HTML, CSS</p>
+        <p>
+          - Styled Components, Design Patterns, TailwindCSS, Redux, Guards
+          (Routs), Firebase Auth, FirebaseDB, useContext (React)
+        </p>
+        <p>
+          - Python, SQLAlchemy, PostgreSQL, MongoDB, Flask, Marshmallow,
+          Postman, Node.js, Docker
+        </p>
+        <p>- Figma, Pipefy, Gather, Github</p>
       </motion.div>
     </div>
   );

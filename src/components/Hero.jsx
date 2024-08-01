@@ -30,7 +30,7 @@ export const Hero = () => {
               animate="visible"
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent"
             >
-              Front End Developer
+              Full Stack Developer
             </motion.span>
             <motion.p
               variants={container(1)}
@@ -38,15 +38,16 @@ export const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-              I am a Front End Developer with experience in React, TypeScript,
-              JavaScript, Python, TailwindCSS, Design Patterns, Styled
-              Components and more. Currently studying Systems Analysis and
-              Development to strengthen my theoretical knowledge. I am actively
-              participating in challenging projects to continuously build a
-              diversified portfolio.
+              I am a Full Stack Developer with experience in React, TypeScript,
+              JavaScript, Python, Node.js, TailwindCSS, PostgreSQL and more. I
+              am also focused on studying Java to further expand my knowledge.
+              Currently studying Systems Analysis and Development to strengthen
+              my theoretical knowledge. I am actively participating in
+              challenging projects to continuously build a diversified
+              portfolio.
             </motion.p>
             <a
-              href="/currículo%20FRONTEND.pdf"
+              href="/currículo%20FULLSTACK.pdf"
               download="Guilherme_Greca_CV.pdf"
               className="mb-10 px-4 py-2 text-white rounded transition-all duration-300 ease-in-out bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 hover:animate-gradient hover:scale-105 active:scale-90"
             >

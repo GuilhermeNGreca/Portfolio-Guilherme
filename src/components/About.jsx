@@ -38,7 +38,7 @@ export const About = () => {
         >
           <div className="flex justify-center lg:justify-start">
             <p className="my-2 maxw-xl py-6">
-              I am a passionate software developer who transforms ideas into
+              I am a passionate Software Developer who transforms ideas into
               impactful digital experiences. With strong skills in both Front
               End and Back End technologies, I am currently expanding my
               theoretical knowledge by pursuing a degree in Systems Analysis and
@@ -50,15 +50,6 @@ export const About = () => {
               databases for the Back End. I am committed to combining my passion
               for technology with a creative and collaborative approach, always
               striving to learn and grow.
-              <br />
-              * Languages, Libraries, Frameworks, and Project Organization
-              Platforms:
-              <br />
-              React, TypeScript, Javascript, HTML, CSS, Styled Components,
-              Design Patterns, TailwindCSS, Redux, Guards (Routs), Firebase
-              Auth, FirebaseDB, useContext (React), Python, SQLAlchemy,
-              PostgreSQL, Flask, Marshmallow, Postman, Node.js, Figma, Pipefy,
-              Gather, Github
             </p>
           </div>
         </motion.div>
