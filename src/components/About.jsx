@@ -42,14 +42,17 @@ export const About = () => {
               impactful digital experiences. With strong skills in both Front
               End and Back End technologies, I am currently expanding my
               theoretical knowledge by pursuing a degree in Systems Analysis and
-              Development. I actively participate in projects through a remote
-              Academy based in the United States, where I am building a diverse
-              and meaningful portfolio. My most rewarding work so far has been
-              collaborating on the development of a web system for an NGO, using
-              React.js and TypeScript for the Front End, Python and relational
-              databases for the Back End. I am committed to combining my passion
-              for technology with a creative and collaborative approach, always
-              striving to learn and grow.
+              Development. I am participating in a training program at an
+              Academy, where I am actively involved in Full Stack projects
+              remotely, building a diverse portfolio. As part of this program, I
+              am contributing to an ongoing project for a non-governmental
+              organization (NGO) based in Brazil, which provides me with
+              comprehensive insights and valuable Full Stack development skills.
+              Additionally, I am interning as a systems developer at a company
+              in São Paulo, also remotely, where I work on XML mapping, PHP and
+              JavaScript routines, and system integrations via API. I am
+              committed to combining my passion for technology with a creative
+              and collaborative approach, always striving to learn and grow.
             </p>
           </div>
         </motion.div>

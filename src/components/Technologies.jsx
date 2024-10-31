@@ -2,6 +2,7 @@ import { BiLogoTypescript } from "react-icons/bi";
 import { RiReactjsLine } from "react-icons/ri";
 import { DiJavascript1 } from "react-icons/di";
 import { IoLogoPython } from "react-icons/io5";
+import { SiPhp } from "react-icons/si";
 import { SiStyledcomponents } from "react-icons/si";
 import { BiLogoTailwindCss } from "react-icons/bi";
 import { FaFigma } from "react-icons/fa6";
@@ -86,6 +87,21 @@ export const Technologies = () => {
         >
           <a href="https://www.python.org/doc/" target="_blank">
             <IoLogoPython className="text-7xl text-cyan-800" />
+          </a>
+        </motion.div>
+
+        <motion.div
+          variants={iconVariants(4)}
+          initial="initial"
+          animate="animate"
+          className="rounded-2xl border-4 border-neutral-800 p-4"
+        >
+          <a
+            href="https://www.php.net/docs.php"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <SiPhp className="text-7xl text-blue-600" />
           </a>
         </motion.div>
 
@@ -187,7 +203,7 @@ export const Technologies = () => {
           (Routs), Firebase Auth, FirebaseDB, useContext (React)
         </p>
         <p>
-          - Python, SQLAlchemy, PostgreSQL, MongoDB, Flask, Marshmallow,
+          - Python, PHP, SQLAlchemy, PostgreSQL, MongoDB, Flask, Marshmallow,
           Postman, Node.js, Docker
         </p>
         <p>- Figma, Pipefy, Gather, Github</p>

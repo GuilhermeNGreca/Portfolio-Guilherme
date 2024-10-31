@@ -39,15 +39,17 @@ export const Hero = () => {
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
               I am a Full Stack Developer with experience in React, TypeScript,
-              JavaScript, Python, Node.js, TailwindCSS, PostgreSQL and more. I
-              am also focused on studying Java to further expand my knowledge.
-              Currently studying Systems Analysis and Development to strengthen
-              my theoretical knowledge. I am actively participating in
-              challenging projects to continuously build a diversified
-              portfolio.
+              JavaScript, Python, PHP, Node.js, TailwindCSS, PostgreSQL and
+              more. I am currently pursuing a degree in Systems Analysis and
+              Development to deepen my theoretical knowledge. I actively
+              participate in Full Stack projects at a remote Academy, where I am
+              building a diverse portfolio. Additionally, I am interning as a
+              systems developer at a company based in São Paulo, also remotely,
+              where I work on XML mapping, PHP and JavaScript routines, and
+              system integrations via API.
             </motion.p>
             <a
-              href="/currículo%20FULLSTACK.pdf"
+              href="/FULLSTACK%20curriculo.pdf"
               download="Guilherme_Greca_CV.pdf"
               className="mb-10 px-4 py-2 text-white rounded transition-all duration-300 ease-in-out bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 hover:animate-gradient hover:scale-105 active:scale-90"
             >
