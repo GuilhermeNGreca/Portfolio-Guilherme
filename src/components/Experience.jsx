@@ -19,7 +19,81 @@ export const Experience = () => {
             transition={{ duration: 1 }}
             className="w-full lg:w-1/4"
           >
-            <p>09/2024 - Currently</p>
+            <p>10/2025 - Currently</p>
+          </motion.div>
+
+          <motion.div
+            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: 100 }}
+            transition={{ duration: 1 }}
+            className="w-full max-w-xl ls:w-3/4"
+          >
+            <h6 className="mb-2 font-semibold">
+              Front-end Developer - <span>Studio Rx</span>
+            </h6>
+            <p className="mb-4 text-neutral-400">
+              Development of HTML and CSS marketing emails, with testing and management through the Veeva Systems platform, as well as the creation of animated banners using Google Web Designer (GWD) and JavaScript.
+            </p>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+              Javascript
+            </span>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+              HTML
+            </span>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+             CSS
+            </span>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+              Google Web Designer
+            </span>
+          </motion.div>
+        </div>
+
+        <div className="mb-8 flex flex-wrap lg:justify-center">
+          <motion.div
+            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: -100 }}
+            transition={{ duration: 1 }}
+            className="w-full lg:w-1/4"
+          >
+            <p>11/2024 - 10/2025</p>
+          </motion.div>
+
+          <motion.div
+            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: 100 }}
+            transition={{ duration: 1 }}
+            className="w-full max-w-xl ls:w-3/4"
+          >
+            <h6 className="mb-2 font-semibold">
+              Front-end Developer | Paid Media Analyst - <span>Prod</span>
+            </h6>
+            <p className="mb-4 text-neutral-400">
+              Website, PromoTools, Visual Aids (VAs), and marketing email updates. Also responsible for digital campaigns and performance analysis to optimize results.
+            </p>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+              Javascript
+            </span>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+              HTML
+            </span>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+             CSS
+            </span>
+            <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
+              Paid Media Analysis
+            </span>
+          </motion.div>
+        </div>
+
+        <div className="mb-8 flex flex-wrap lg:justify-center">
+          <motion.div
+            whileInView={{ opacity: 1, x: 0 }}
+            initial={{ opacity: 0, x: -100 }}
+            transition={{ duration: 1 }}
+            className="w-full lg:w-1/4"
+          >
+            <p>09/2024 - 11/2024</p>
           </motion.div>
 
           <motion.div
@@ -33,8 +107,7 @@ export const Experience = () => {
               <span>SNET SISTEMAS E SOLUCOES EM TI LTDA</span>
             </h6>
             <p className="mb-4 text-neutral-400">
-              I work on XML map development, routines in PHP and JavaScript, and
-              system integrations via API.
+              Development of XML mappings, PHP and JavaScript routines, and system integrations through APIs.
             </p>
             <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
               PHP
@@ -58,7 +131,7 @@ export const Experience = () => {
             transition={{ duration: 1 }}
             className="w-full lg:w-1/4"
           >
-            <p>01/2024 - Currently</p>
+            <p>01/2024 - 01/2025</p>
           </motion.div>
 
           <motion.div
@@ -71,11 +144,7 @@ export const Experience = () => {
               Apprentice Full Stack Developer - <span>Eitree</span>
             </h6>
             <p className="mb-4 text-neutral-400">
-              Engaged in the development of a web system for a nongovernmental
-              organization focused on animal adoption. In this project, I am
-              involved in Back End development using Python and relational
-              databases, as well as Front End creation with React.js and
-              Typescript.
+             Development of a web system for an animal adoption nonprofit (https://www.solpra.com.br), with a Python back end and relational database. Front end developed with React.js and TypeScript.
             </p>
             <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
               React.js
@@ -112,9 +181,7 @@ export const Experience = () => {
               Intern in Electronics Technician - <span>InfoP4</span>
             </h6>
             <p className="mb-4 text-neutral-400">
-              Network cable installation, computer and electronics maintenance,
-              and the commercialization and use of electronic equipment and
-              systems.
+              Network cable installation, computer maintenance, and electronics sales.
             </p>
             <span className="mr-2 mt-4 rounded bg-neutral-900 px-2 py-1 text-sm font-medium text-purple-800">
               Cabling

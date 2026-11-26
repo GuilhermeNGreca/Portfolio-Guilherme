@@ -197,7 +197,7 @@ export const Technologies = () => {
         <p className="my-6 maxw-xl bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text tracking-tight text-transparent">
           Languages, Libraries, Frameworks, and Project Organization Platforms:
         </p>
-        <p>- React, TypeScript, Javascript, HTML, CSS</p>
+        <p>- React, TypeScript, Javascript, HTML, CSS, Email Marketing, Veeva Systems</p>
         <p>
           - Styled Components, Design Patterns, TailwindCSS, Redux, Guards
           (Routs), Firebase Auth, FirebaseDB, useContext (React)
@@ -206,7 +206,8 @@ export const Technologies = () => {
           - Python, PHP, SQLAlchemy, PostgreSQL, MongoDB, Flask, Marshmallow,
           Postman, Node.js, Docker
         </p>
-        <p>- Figma, Pipefy, Gather, Github</p>
+        <p>- GitHub, ClickUp, Pipefy, Gather, Microsoft Excel, Bitbucket, Workfront, Double Click</p>
+        <p>- Figma, Adobe Illustrator, Adobe Photoshop</p>
       </motion.div>
     </div>
   );

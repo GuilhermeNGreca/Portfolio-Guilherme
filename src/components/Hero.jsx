@@ -30,7 +30,7 @@ export const Hero = () => {
               animate="visible"
               className="bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 bg-clip-text text-4xl tracking-tight text-transparent"
             >
-              Full Stack Developer
+              Front-End Developer
             </motion.span>
             <motion.p
               variants={container(1)}
@@ -38,18 +38,10 @@ export const Hero = () => {
               animate="visible"
               className="my-2 max-w-xl py-6 font-light tracking-tighter"
             >
-              I am a Full Stack Developer with experience in React, TypeScript,
-              JavaScript, Python, PHP, Node.js, TailwindCSS, PostgreSQL and
-              more. I am currently pursuing a degree in Systems Analysis and
-              Development to deepen my theoretical knowledge. I actively
-              participate in Full Stack projects at a remote Academy, where I am
-              building a diverse portfolio. Additionally, I am interning as a
-              systems developer at a company based in São Paulo, also remotely,
-              where I work on XML mapping, PHP and JavaScript routines, and
-              system integrations via API.
+              Developer with a degree in Systems Analysis and Development and 3 years of experience in the technology field. Throughout my career, I took part in an Academy program and also worked professionally as a Systems Developer, Front-end Developer, and Paid Media Analyst. I currently specialize in Front-end development.
             </motion.p>
             <a
-              href="/FULLSTACK%20curriculo.pdf"
+              href="/GuilhermeGrecaResume.pdf"
               download="Guilherme_Greca_CV.pdf"
               className="mb-10 px-4 py-2 text-white rounded transition-all duration-300 ease-in-out bg-gradient-to-r from-pink-300 via-slate-500 to-purple-500 hover:animate-gradient hover:scale-105 active:scale-90"
             >
